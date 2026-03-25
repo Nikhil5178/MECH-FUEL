@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MECH-FUEL
 =======
 # Mech-Fuel - On-Demand Roadside Assistance Platform
@@ -120,4 +119,3 @@ Contributions, issues, and feature requests are welcome!
 ## 📧 Contact
 
 For questions or support, please open an issue in the repository.
->>>>>>> 7038cc3 (first commit)
