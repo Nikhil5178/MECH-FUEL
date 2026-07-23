@@ -100,7 +100,7 @@ mech-fuel/
 ├── vite.config.ts           # Vite configuration
 └── tsconfig.json            # TypeScript configuration
 ```
-
+#multiple pages may conflict..
 ## 🎯 Key Pages
 
 - **/** - Home/Landing page with features and services
